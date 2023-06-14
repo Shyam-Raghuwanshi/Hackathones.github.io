@@ -1,0 +1,8 @@
+.logo{
+  height: 63px;
+}
+
+.grid{
+  margin-top: 5rem;
+  grid-template-columns: 1fr 1fr 1fr;
+}
